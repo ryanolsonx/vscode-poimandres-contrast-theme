@@ -6,6 +6,7 @@
   "publisher": "ryanolsonx",
   "repository": "https://github.com/ryanolsonx/vscode-poimandres-contrast-theme",
   "license": "MIT",
+  "icon": "icon.png",
   "keywords": [
     "dark",
     "light"
