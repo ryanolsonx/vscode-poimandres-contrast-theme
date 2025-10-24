@@ -1,0 +1,33 @@
+{
+  "name": "TODO",
+  "version": "0.1.0",
+  "displayName": "TODO",
+  "description": "TODO",
+  "publisher": "ryanolsonx",
+  "repository": "https://github.com/ryanolsonx/vscode-TODO",
+  "license": "MIT",
+  "keywords": [
+    "dark",
+    "light"
+  ],
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-scheme.json"
+      },
+      {
+        "label": "Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/light-color-scheme.json"
+      }
+    ]
+  }
+}
