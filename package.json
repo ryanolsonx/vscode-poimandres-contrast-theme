@@ -1,10 +1,10 @@
 {
-  "name": "TODO",
+  "name": "poimandres-contrast",
   "version": "0.1.0",
-  "displayName": "TODO",
-  "description": "TODO",
+  "displayName": "poimandres-contrast",
+  "description": "A poimandres variant with higher contast in the workspace",
   "publisher": "ryanolsonx",
-  "repository": "https://github.com/ryanolsonx/vscode-TODO",
+  "repository": "https://github.com/ryanolsonx/vscode-poimandres-contrast-theme",
   "license": "MIT",
   "keywords": [
     "dark",
@@ -19,14 +19,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Theme",
+        "label": "poimandres contrast",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-scheme.json"
-      },
-      {
-        "label": "Light Theme",
-        "uiTheme": "vs",
-        "path": "./themes/light-color-scheme.json"
       }
     ]
   }
